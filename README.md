@@ -3,4 +3,7 @@
 - 🌱 I’m currently learning android app development & Python
 - 💞️ I’m looking to collaborate on and web apps or android app related projects.
 - 📫 How to reach me aditya20031214@icloud.com or adicoder95@gmail.com
-- 🔆 Contributor GSoC'22 @FREIFUNK, Project "MESHENGER"
+- 🔆 Contributor GSoC'22 @FREIFUNK, Project @meshenger-app
+
+
+
